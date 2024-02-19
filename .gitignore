@@ -1,0 +1,4 @@
+trash
+.terraform*
+terraform.tfstate*
+input.tfvars

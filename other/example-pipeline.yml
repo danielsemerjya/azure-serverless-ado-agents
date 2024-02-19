@@ -1,0 +1,11 @@
+# This is ado pipeline
+
+pool:
+  name: serverlessagents
+
+trigger: none
+
+# This pipeline just prints a message
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
