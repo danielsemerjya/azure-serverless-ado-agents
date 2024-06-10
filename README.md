@@ -1,7 +1,6 @@
 # Description
 
 This project could be used to create serverless ADO agents with Container Apps.
-Docker images is based on my public docker hub registery.
 
 # Requirements
 1. Terraform
